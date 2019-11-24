@@ -121,3 +121,8 @@ PRODUCT_PACKAGES += \
 # OTO
 PRODUCT_PACKAGES += \
     OTO
+
+# Recorder
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
+
