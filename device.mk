@@ -1,5 +1,4 @@
-#
-# Copyright (C) 2017-2019 The LineageOS Project
+right (C) 2017-2019 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -69,6 +68,11 @@ PRODUCT_PACKAGES += \
     camera.msm8953 \
     libmm-qcamera
 
+# Charging
+PRODUCT_PACKAGES += \
+    charger_res_images \
+    product_charger_res_images
+
 # ConsumerIr
 PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-impl \
@@ -112,4 +116,3 @@ $(call inherit-product, build/target/product/verity.mk)
 # Via
 PRODUCT_PACKAGES += \
     Via
-
