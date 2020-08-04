@@ -126,3 +126,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OPScreenRecorder
 
+# Remove packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
