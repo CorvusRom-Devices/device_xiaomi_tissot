@@ -118,6 +118,6 @@ $(call inherit-product, build/target/product/verity.mk)
 PRODUCT_PACKAGES += \
     Via
     
-# Oto
+# OTO
 PRODUCT_PACKAGES += \
     OTO
