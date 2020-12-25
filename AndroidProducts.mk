@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_tissot.mk
+    $(LOCAL_DIR)/revengeos_tissot.mk
