@@ -74,6 +74,10 @@ PRODUCT_PACKAGES += \
 # Properties
 -include device/xiaomi/tissot/prop.mk
 
+#Remove Unwanted Packges
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.goodix.sh \
