@@ -26,7 +26,7 @@ $(call inherit-product, vendor/corvus/config/common_full_phone.mk)
 
 # Corvus
 CORVUS_MAINTAINER := Meghthedev
-RAVEN_LAIR := Unofficial
+RAVEN_LAIR := Official
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := tissot
