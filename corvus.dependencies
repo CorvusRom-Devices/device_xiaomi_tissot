@@ -21,5 +21,11 @@
    "repository": "CorvusRom-Devices/kernel_xiaomi_msm8953",
    "target_path": "kernel/xiaomi/msm8953",
    "branch": "NON-OC"
-  }
+  },
+ {
+   "remote": "github",
+   "repository": "iusmac/RevampedFMRadio",
+   "target_path": "packages/apps/RevampedFMRadio",
+   "branch": "qcom"
+ }  
 ]
